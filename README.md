@@ -10,6 +10,4 @@
 
 # 📊 GitHub Stats:
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliksab&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliksab&hide_progress=false)](https://github.com/sergeymaxx/github-readme-stats)

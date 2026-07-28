@@ -21,7 +21,3 @@ DevOps-практики и поддержка облачной инфрастр�
 Умение быстро разбираться в legacy-коде и выстраивать процессы
 
 Ищу возможность применить накопленный опыт в роли Senior Fullstack / Tech Lead /Руководителя разработки в компании, где ценят современные технологии, качество кода, командную работу и результат.
-
-# 📊 GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliksab&hide_progress=false)](https://github.com/aliksab/github-readme-stats)
